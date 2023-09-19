@@ -1,52 +1,36 @@
-# Genius-Saas
-Projeto: Plataforma SaaS AI de última geração
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Introdução
+## Getting Started
 
-Estou entusiasmado em compartilhar com vocês meu projeto de uma plataforma SaaS AI de última geração. Esta plataforma é  alimentada pelo Next.js 13 App Router e utiliza cinco ferramentas AI para oferecer uma experiência de usuário incomparável.
+First, run the development server:
 
-Objetivos
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun run dev
+```
 
-Os objetivos deste projeto são:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Criar uma plataforma SaaS AI eficiente e centrada no usuário
-Integrar um sistema de assinatura Stripe 
-Usar uma rica paleta de tecnologias de desenvolvimento web
-Tecnologias
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-A plataforma será construída usando as seguintes tecnologias:
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-Next.js 13 App Router
-Stripe
-React
-Tailwind
-Prisma
-MySQL
-Clerk
-Etapas
+## Learn More
 
-O projeto foi dividido nas seguintes etapas:
+To learn more about Next.js, take a look at the following resources:
 
-Arquitetura
-Desenvolvimento
-Testes
-Implementação
-Arquitetura
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Na primeira etapa, foi definido a arquitetura da plataforma. Isso inclui a definição de todos os componentes e serviços da plataforma.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-Desenvolvimento
+## Deploy on Vercel
 
-Na segunda etapa, o desenvolvimento da plataforma. Isso inclui a implementação de todos os componentes e serviços definidos na etapa de arquitetura.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Testes
-
-Na terceira etapa, testes. Isso inclui a execução de testes unitários, testes de integração e testes de aceitação.
-
-Implementação
-
-Na quarta etapa, isso inclui a implantação da plataforma em um ambiente de produção.
-
-Conclusão
-
-Acredito que este projeto tem o potencial de revolucionar o cenário web movido a IA. Estou ansioso para compartilhar meu progresso com vocês à medida que o projeto avança.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
